@@ -1,6 +1,6 @@
-<h3>Hi there 👋, I'm Utkarsh Garg</h3>
-<img src="https://camo.githubusercontent.com/d4902b57b5e2549993dfc819375943915f4a4bd1c2b3718f894547e1910c3e2e/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966" alt="Braydon's GitHub Banner" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="Braydon's GitHub Banner" style="max-width: 100%;">
 
+<h3 align="center">Hi there 👋, I'm Utkarsh Garg</h3>
 <h3>About me :</h3>
 
 - 🔍 I’m looking forward to kickstarting my career as a software engineer.

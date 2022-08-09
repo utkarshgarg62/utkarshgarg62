@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="Braydon's GitHub Banner" style="max-width: 100%;">
 
 <h3 align="center">Hi there 👋, I'm Utkarsh Garg</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshgarg62&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshgarg62" /> </p>
 <h3>About me :</h3>
 
 - 🔍 I’m looking forward to kickstarting my career as a software engineer.

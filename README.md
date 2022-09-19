@@ -8,7 +8,7 @@
 - 🌱 I’m currently working on **Projects**
 - 💬 Ask me about Html ,CSS, JavaScript, MongoDB, Express, NodeJS, C, C++, Php, Mysql.
 - 📫 How to reach me **utkarshgarg143@gmail.com**
-- ⚡ Fun fact: **I think i am funny**
+- ⚡ Portfolio - https://utkarshhgarg.netlify.app/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/utkarsh.143.garg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/utkarshh_garg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarshgarg62) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/utkarshgarg143) 

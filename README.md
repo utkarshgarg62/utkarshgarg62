@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="Braydon's GitHub Banner" style="max-width: 100%;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmSn1-17-IBHy2xOK72fpmu9twZgA_txtRr_IevitFfmlpnR25FzgUbVvgavzASaQvY80P4B1ITl8dIblFpLKkg3V2iywtoBtH7zAiS1XAJmsz8gJDZv9Aa9B4wOQbeN7g0Gq2jQydirnAhf9_anHYNl8lY8TSpejmQ8akw04HlRvyyzr7o1uOL0C9ZQ/s16000/header_1.png" alt="Braydon's GitHub Banner" style="max-width: 100%;">
 
 <h3 align="center">Hi there 👋, I'm Utkarsh Garg</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshgarg62&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshgarg62" /> </p>
